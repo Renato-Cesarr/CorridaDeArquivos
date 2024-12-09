@@ -1,0 +1,7 @@
+{
+  "participants": [
+    {"ip": "192.168.56.10", "username": "re", "password": "1234"}
+  ],
+  "sourceFilePath": "/home/almaviva-linux/localArquivo/renato.txt",
+  "destinationFolder": "/home/{username}/CorridaArquivos/"
+}

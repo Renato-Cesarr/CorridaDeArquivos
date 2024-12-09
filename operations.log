@@ -1,0 +1,2 @@
+Error sending file to 192.168.56.10: /home/almaviva-linux/localArquivo/renato.txt (No such file or directory)
+Error deleting files from 192.168.56.10: java.net.NoRouteToHostException: No route to host
